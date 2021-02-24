@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.deps.json
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.dll
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\bin\Debug\netcoreapp3.1\ApplicationDatabaseModels.pdb
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.csprojAssemblyReference.cache
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.AssemblyInfo.cs
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.dll
+C:\Users\User\Desktop\DriveLicenseApp\ApplicationDatabaseModels\obj\Debug\netcoreapp3.1\ApplicationDatabaseModels.pdb
